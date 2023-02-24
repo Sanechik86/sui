@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["id","next_checkpoint_sequence_number","star"]};
